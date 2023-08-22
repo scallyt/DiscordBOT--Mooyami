@@ -16,7 +16,7 @@ client.on('ready', (client) => {
 
 client.on('messageCreate', (message) => {
   if(message.content == 'Alex better than Cool Doggo'){
-    message.reply('Is it  not true❗');
+    message.reply('Its not true❗');
   }
 })
 
